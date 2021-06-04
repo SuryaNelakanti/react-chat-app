@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SuryaNelakanti/react-chat-app/static/css/main.6d843b68.chunk.css",
+    "main.js": "/SuryaNelakanti/react-chat-app/static/js/main.b298ca42.chunk.js",
+    "main.js.map": "/SuryaNelakanti/react-chat-app/static/js/main.b298ca42.chunk.js.map",
+    "runtime-main.js": "/SuryaNelakanti/react-chat-app/static/js/runtime-main.768a2f11.js",
+    "runtime-main.js.map": "/SuryaNelakanti/react-chat-app/static/js/runtime-main.768a2f11.js.map",
+    "static/js/2.cf3a662c.chunk.js": "/SuryaNelakanti/react-chat-app/static/js/2.cf3a662c.chunk.js",
+    "static/js/2.cf3a662c.chunk.js.map": "/SuryaNelakanti/react-chat-app/static/js/2.cf3a662c.chunk.js.map",
+    "static/js/3.1e170347.chunk.js": "/SuryaNelakanti/react-chat-app/static/js/3.1e170347.chunk.js",
+    "static/js/3.1e170347.chunk.js.map": "/SuryaNelakanti/react-chat-app/static/js/3.1e170347.chunk.js.map",
+    "index.html": "/SuryaNelakanti/react-chat-app/index.html",
+    "static/css/main.6d843b68.chunk.css.map": "/SuryaNelakanti/react-chat-app/static/css/main.6d843b68.chunk.css.map",
+    "static/js/2.cf3a662c.chunk.js.LICENSE.txt": "/SuryaNelakanti/react-chat-app/static/js/2.cf3a662c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768a2f11.js",
+    "static/js/2.cf3a662c.chunk.js",
+    "static/css/main.6d843b68.chunk.css",
+    "static/js/main.b298ca42.chunk.js"
+  ]
+}
